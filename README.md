@@ -1,4 +1,4 @@
-# prollecto brazo Robotico
+# proyecto brazo Robotico
 
 # Descripcion
 
@@ -6,7 +6,6 @@
 -ESP32
 -STM32
 -PYTHON
--cariñosas
 
 # Requerimientos
 -Computadora
