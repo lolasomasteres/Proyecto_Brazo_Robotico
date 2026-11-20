@@ -8,5 +8,5 @@
 -PYTHON
 
 # Requerimientos
-
+-Computadora
 # Libreria
