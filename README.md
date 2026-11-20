@@ -1,7 +1,7 @@
 # proyecto brazo Robotico
-
+una chingneria
 # Descripcion
-
+no c XD
 # Componentes
 -ESP32
 -STM32
@@ -9,5 +9,6 @@
 
 # Requerimientos
 -Computadora
-_Cerebro
+-Cerebro
 # Libreria
+-en la biblioteca
